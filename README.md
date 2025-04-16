@@ -44,6 +44,7 @@ Para is a simple web3 signing solution that enables you to build secure cross-ap
 - [NEXT15 + PARA REACT SDK + SHADCN boilerplate](https://github.com/10krotator/next-para-boilerplate) by [10krotator](https://github.com/10krotator) - This boilerplate uses the latest nextjs and para react sdk with an auth context. You can use the auth hooks to protect any clientside pages. It also features a collapsible sidebar and poppy buttons — all built with shadcn.
 - [Bulk Wallet Pre-Generation](https://github.com/pbkompasz/invite-pregen-wallet) by [pbkompasz](https://github.com/pbkompasz) - Perform NFT distribution to your Warpcast followers using Para's [Wallet Pregeneration](https://docs.getpara.com/integration-guides/wallet-pregeneration).
 - [RetroOS Arcade](https://github.com/0xPr0f/retroOS-arcade) by [0xpr0f](https://github.com/0xPr0f) - An arcade style app & gaming platform that simulates a desktop operating system experience. Using Para's authentication and pre-generated wallet features + ZeroDev for smart accounts.
+- [Para+Safe](https://github.com/ManyRios/Para-Safe) by [ManyRios](https://github.com/ManyRios) - An simple example app that uses Safe for account abstraction and Para.
 
 ## Developers
 
