@@ -30,6 +30,7 @@ Para is a simple web3 signing solution that enables you to build secure cross-ap
 
 ## Community
 
+- [Miden x Para SDK](https://github.com/0xMiden/miden-para) - packages and examples for using Para wallet with the Miden blockchain
 - [NextJS+Para for Eigenlayer](https://gist.github.com/dabit3/d71964bcab62bd5ae6e1cdc0402bf681) by [dabit3](https://github.com/dabit3) - a Gist adding Para to an [Eigenlayer](https://www.eigenlayer.xyz/) NextJS app
 - [Scaffold-ETH 2 extension with Para](https://github.com/tantodefi/capsule-extension) by [tantodefi](https://github.com/tantodefi) - A Scaffold-ETH 2 extension pre-configured with Para for email and SMS login with MPC
 - [Telegram Bot Demo](https://github.com/DegenHouseDeFi/capsule-telegram-bot-demo) by [DegenHouse](https://github.com/DegenHouseDeFi) - A Telegram bot utilizing Para's Pregen Wallets for embedded wallets within the app and transactions
@@ -44,7 +45,7 @@ Para is a simple web3 signing solution that enables you to build secure cross-ap
 - [NEXT15 + PARA REACT SDK + SHADCN boilerplate](https://github.com/10krotator/next-para-boilerplate) by [10krotator](https://github.com/10krotator) - This boilerplate uses the latest nextjs and para react sdk with an auth context. You can use the auth hooks to protect any clientside pages. It also features a collapsible sidebar and poppy buttons — all built with shadcn.
 - [Bulk Wallet Pre-Generation](https://github.com/pbkompasz/invite-pregen-wallet) by [pbkompasz](https://github.com/pbkompasz) - Perform NFT distribution to your Warpcast followers using Para's [Wallet Pregeneration](https://docs.getpara.com/integration-guides/wallet-pregeneration).
 - [RetroOS Arcade](https://github.com/0xPr0f/retroOS-arcade) by [0xpr0f](https://github.com/0xPr0f) - An arcade style app & gaming platform that simulates a desktop operating system experience. Using Para's authentication and pre-generated wallet features + ZeroDev for smart accounts.
-- [Para+Safe](https://github.com/ManyRios/Para-Safe) by [ManyRios](https://github.com/ManyRios) - An simple example app that uses Safe for account abstraction and Para.
+- [Para+Safe](https://github.com/ManyRios/Para-Safe) by [ManyRios](https://github.com/ManyRios) - A simple example app that uses Safe for account abstraction and Para.
 - [Variance+Para](https://github.com/vaariance/para-demo.git) by [maxiggle](https://github.com/maxiggle/maxiggle) - Example app that implements how to create AA accounts using Para wallets
 
 ## Developers
