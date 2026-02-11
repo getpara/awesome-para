@@ -47,6 +47,9 @@ Para is a simple web3 signing solution that enables you to build secure cross-ap
 - [Para+Safe](https://github.com/ManyRios/Para-Safe) by [ManyRios](https://github.com/ManyRios) - An simple example app that uses Safe for account abstraction and Para.
 - [Variance+Para](https://github.com/vaariance/para-demo.git) by [maxiggle](https://github.com/maxiggle/maxiggle) - Example app that implements how to create AA accounts using Para wallets
 
+## MCPs 
+- [Migration MCP](https://github.com/fruteroclub/para-wallet-migration-mcp) 
+
 ## Developers
 
 - [Developer Docs](https://docs.getpara.com) - Developer docs including API references, feature specifications, and examples
