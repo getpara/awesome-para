@@ -30,6 +30,7 @@ Para is a simple web3 signing solution that enables you to build secure cross-ap
 
 ## Community
 
+- [Miden x Para SDK](https://github.com/0xMiden/miden-para) - packages and examples for using Para wallet with the Miden blockchain
 - [NextJS+Para for Eigenlayer](https://gist.github.com/dabit3/d71964bcab62bd5ae6e1cdc0402bf681) by [dabit3](https://github.com/dabit3) - a Gist adding Para to an [Eigenlayer](https://www.eigenlayer.xyz/) NextJS app
 - [Scaffold-ETH 2 extension with Para](https://github.com/tantodefi/capsule-extension) by [tantodefi](https://github.com/tantodefi) - A Scaffold-ETH 2 extension pre-configured with Para for email and SMS login with MPC
 - [Telegram Bot Demo](https://github.com/DegenHouseDeFi/capsule-telegram-bot-demo) by [DegenHouse](https://github.com/DegenHouseDeFi) - A Telegram bot utilizing Para's Pregen Wallets for embedded wallets within the app and transactions
@@ -46,7 +47,10 @@ Para is a simple web3 signing solution that enables you to build secure cross-ap
 - [RetroOS Arcade](https://github.com/0xPr0f/retroOS-arcade) by [0xpr0f](https://github.com/0xPr0f) - An arcade style app & gaming platform that simulates a desktop operating system experience. Using Para's authentication and pre-generated wallet features + ZeroDev for smart accounts.
 - [Para+Safe](https://github.com/ManyRios/Para-Safe) by [ManyRios](https://github.com/ManyRios) - An simple example app that uses Safe for account abstraction and Para.
 - [Para+Rootstock](https://github.com/rsksmart/examples-hub/tree/feat/rootstock-example-v2/web/with-react-nextjs/para-modal-rootstock ) - A simple example showing how to use the Para Wallet on Rootstock.
+- [Variance+Para](https://github.com/vaariance/para-demo.git) by [maxiggle](https://github.com/maxiggle/maxiggle) - Example app that implements how to create AA accounts using Para wallets
 
+## MCPs 
+- [Migration MCP](https://github.com/getpara/Para-Migration-MCP) 
 
 ## Developers
 
@@ -55,9 +59,8 @@ Para is a simple web3 signing solution that enables you to build secure cross-ap
 
 ## Other
 
-- Slack Community: Coming soon!
-- Support: email support@getpara.com with any questions
-- Say Hello: email us at hello@getpara.com with feature requests, ideas, and more!
+- [Feel free to direct any questions to our Slack Community](https://join.slack.com/t/para-community/shared_invite/zt-304keeulc-Oqs4eusCUAJEpE9DBwAqrg) 
+- Say Hello: Email us at hello@getpara.com with feature requests, ideas, and more!
 
 ## Contribute
 
