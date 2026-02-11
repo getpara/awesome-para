@@ -48,7 +48,7 @@ Para is a simple web3 signing solution that enables you to build secure cross-ap
 - [Variance+Para](https://github.com/vaariance/para-demo.git) by [maxiggle](https://github.com/maxiggle/maxiggle) - Example app that implements how to create AA accounts using Para wallets
 
 ## MCPs 
-- [Migration MCP](https://github.com/fruteroclub/para-wallet-migration-mcp) 
+- [Migration MCP](https://github.com/getpara/Para-Migration-MCP) 
 
 ## Developers
 
