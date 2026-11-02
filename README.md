@@ -49,6 +49,7 @@ Para is a simple web3 signing solution that enables you to build secure cross-ap
 - [Para+Specialk](https://github.com/ManyRios/para-specialk) by [ManyRios](https://github.com/ManyRios) - This example app using the template of specialK to make contracts and para to connect your wallet and make transactions
 - [Para+Rootstock](https://github.com/rsksmart/examples-hub/tree/feat/rootstock-example-v2/web/with-react-nextjs/para-modal-rootstock ) - A simple example showing how to use the Para Wallet on Rootstock.
 - [Variance+Para](https://github.com/vaariance/para-demo.git) by [maxiggle](https://github.com/maxiggle/maxiggle) - Example app that implements how to create AA accounts using Para wallets
+- [Para + x402check](https://github.com/nwilliams005/x402check-examples/tree/main/para) by [nwilliams005](https://github.com/nwilliams005) - Agent example: Para REST wallet preflights an x402 seller (`ok|caution|avoid`) before settling Exact USDC on Base
 
 ## MCPs 
 - [Migration MCP](https://github.com/getpara/Para-Migration-MCP) 
